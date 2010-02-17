@@ -1,0 +1,4 @@
+Toy analysis of webcam photos
+
+Currently plotting the estimated time of sunrise/sunset based on
+average pixel brightness of the images.
