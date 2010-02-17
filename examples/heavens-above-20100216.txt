@@ -1,0 +1,12 @@
+Event 	Time 	  Altitude	  Azimuth
+Astronomical twilight starts:  	05:20	-18.0°	87°
+Nautical twilight starts:	05:58	-12.0°	95°
+Civil twilight starts:	06:37	-6.0°	102°
+Sunrise:	07:12	-0.8°	109°
+Sunset:	17:16	-0.8°	251°
+Civil twilight ends:	17:51	-6.0°	258°
+Nautical twilight ends:	18:30	-12.0°	265°
+Astronomical twilight ends:	19:08	-18.0°	273°
+ 
+Maximum altitude:	12:14	26.3°	180°
+Minimum altitude:	00:14	-51.0°	360°
