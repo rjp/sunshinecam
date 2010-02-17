@@ -1,0 +1,1 @@
+awk '{for(i=1;i<13;i++){b=substr($0,11*i-6,4);c=substr($0,11*i-1,4);if(b+0>0){printf("2010-%02d-%02d,%s,%s\n",i,$1,b,c)}}}' < official.txt | sort -n | sed -e 's/,\([0-9][0-9]\)\([0-9][0-9]\)/,\1:\2/g' > usno.csv
